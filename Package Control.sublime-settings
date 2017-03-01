@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Ionic Framework Extended Autocomplete",
+		"Ionic Framework Snippets",
+		"Ionic Snippets",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"PlainNotes",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}
