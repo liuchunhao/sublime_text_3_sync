@@ -1,0 +1,38 @@
+[
+    {
+        "class": "sidebar_label",
+        // "color": [0, 0, 0],
+        "font.bold": false,
+        "font.size": 14
+    },
+    {
+        "class": "sidebar_label",
+        "font.face": "monospace",
+        "font.size": 12,
+    },
+    {
+        "class": "tab_label",
+        "font.face": "monospace",
+        "font.size": 12
+    },
+    {
+        "class": "tool_tip_label_control",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_path_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_score_label",
+        "font.face": "monospace",
+        "font.size": 14
+    }
+]

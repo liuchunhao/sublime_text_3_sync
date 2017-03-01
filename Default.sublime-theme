@@ -60,6 +60,36 @@
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
         "settings": ["bold_folder_labels"],
         "font.bold": true
-    }
+    },
 
+    {
+        "class": "sidebar_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "tab_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "tool_tip_label_control",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_path_label",
+        "font.face": "monospace",
+        "font.size": 14
+    },
+    {
+        "class": "quick_panel_score_label",
+        "font.face": "monospace",
+        "font.size": 14
+    }
 ]
