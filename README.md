@@ -24,4 +24,5 @@
 * [1337 Color Scheme]()
 * [Open Folder]()
 * [A File Icon]()
+* [Inc-Dec-Value](https://packagecontrol.io/packages/Inc-Dec-Value)
 
