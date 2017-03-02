@@ -1,0 +1,9 @@
+{
+    // The mid-line characters to align in a multi-line selection, changing this to an empty array will disable mid-line alignment
+    // Using Sublime Alignment:
+	// 1. Select the lines you wish to align.
+	// 2. Press Ctrl+Alt+A (Windows & Linux) or Command+Ctrl+A (Mac OS X)
+    "alignment_chars": [
+        "=", ":"
+    ]
+}
