@@ -1,0 +1,4 @@
+{
+//	"shell_cmd":[ "D:\bin\nodjs\node.exe", "-p", "$file" ],
+	"cmd":[ "D:\\bin\\nodejs\\node.exe", "$file" ],
+}
